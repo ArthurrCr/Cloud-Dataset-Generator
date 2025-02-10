@@ -5,4 +5,11 @@ matplotlib
 rasterio
 opencv-python
 scipy
+geemap
+ipyleaflet
+ipywidgets
+jupyter-leaflet
+jupyterlab_widgets
+notebook
+jupyter_contrib_nbextensions
 
